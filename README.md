@@ -3,7 +3,6 @@
 웹팩을 알아서 설정해주기 때문에 웹팩에 관심을 가지지 않았지만<br>
 현재는 궁금중이 생겨 웹팩을 다루어보고 있습니다.</p>
 
-## 문제해결 과정
-
+## 문제해결 과정 ([Projects](https://github.com/users/geunu97/projects/2))
 - <a href="https://geunu97.tistory.com/87">NPM이란?</a>
 - <a href="https://geunu97.tistory.com/88">웹팩의 로딩속도</a>
